@@ -53,6 +53,9 @@ export default App
 
 Img: <img width="1903" height="1071" alt="Captura de imagem_20250903_221841" src="https://github.com/user-attachments/assets/e9ff46f2-1262-4af4-b73f-6ca3c3634ab0" />
 
+Img pelo Emulador Android (npx expo start): <img width="1911" height="1078" alt="Captura de imagem_20250904_095224" src="https://github.com/user-attachments/assets/7bb62167-b0be-43b4-8e40-5ace3e4803c3" />
+
+
 ## Com base nos Slide 1 - prática, segue anexos de Atividades 2:
 
 - Código Exercicio02:
@@ -123,5 +126,8 @@ Img (Incrementando): <img width="1903" height="1071" alt="Captura de imagem_2025
 
 
 Img (Decrementando): <img width="1895" height="1068" alt="Captura de imagem_20250903_222652" src="https://github.com/user-attachments/assets/674d5d9e-659b-4ee7-89af-217a68527803" />
+
+Img pelo Emulador Android (npx expo start): <img width="1911" height="1078" alt="Captura de imagem_20250904_094059" src="https://github.com/user-attachments/assets/b0face94-24b5-4e97-9a84-f89409d6f5eb" />
+
 
 
