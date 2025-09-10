@@ -126,6 +126,8 @@ Img (Decrementando): <img width="1895" height="1068" alt="Captura de imagem_2025
 
 ## Com base nos Slide 1 - prática, segue anexos de Atividades 3:
 
+Esse código cria um campo de texto controlado, ou seja, tudo o que o usuário digita é guardado no state (text) e exibido em tempo real na tela.
+
 - Código Exercicio03:
 
 ```
@@ -185,6 +187,8 @@ Img Web: <img width="1915" height="1072" alt="Captura de imagem_20250910_145838"
 Img Expo: <img width="1897" height="1064" alt="image" src="https://github.com/user-attachments/assets/355b07ac-f00e-47ba-9355-d07efa09b1e7" />
 
 ## Com base nos Slide 1 - prática, segue anexos de Atividades 4:
+
+Nessa atividade estamos renderizando a lista dinamicamente.
 
 - Código Exercicio04:
 
