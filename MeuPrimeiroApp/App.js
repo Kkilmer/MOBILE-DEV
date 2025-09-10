@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
-import Exercicio01 from './src/components/Exercicio01'
+import Exercicio03 from './src/components/Exercicio03'
 
 const App = () => {
   return (
-    <Exercicio01 name="Kevin Kilmer"/>
+    <Exercicio03/>
   )
 }
 
