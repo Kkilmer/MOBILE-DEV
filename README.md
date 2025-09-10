@@ -1,4 +1,4 @@
-## MOBILE-DEV (React-Native)
+# MOBILE-DEV (React-Native)
 
 # Projeto desenvolvido durante aula e em casa (ETAPA 1)
 
